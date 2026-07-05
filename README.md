@@ -983,6 +983,7 @@ Many websites require phone number verification. These services offer a way to r
 
 ### Email verification required, accepting monero
 - [Onlinesim](https://onlinesim.ru/) - Receive SMS online to virtual phone number. (Based in Russia)
+- [SMSRoute](https://smsroute.cc/) - No-KYC virtual numbers for SMS/call verification via REST API, crypto billing incl. Monero, 149 countries.
 
 ### Email verification required, accepting crypto
 - [SmsPVA](https://smspva.com/) - SmsPVA is a service providing a phone number you can send any SMS on and get a text of it. (Based in France)
